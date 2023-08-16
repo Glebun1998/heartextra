@@ -1,0 +1,13 @@
+{ 
+        "criteria": {
+                "Unlocked": {
+                    "trigger": "minecraft:recipe_unlocked",
+                    "conditions": {
+                        "recipe": "heartextra:crafthppotion"
+                    }
+            }
+    },
+        "rewards": {
+            "function": "heartextra:giverarepotion_craft"
+        }
+}

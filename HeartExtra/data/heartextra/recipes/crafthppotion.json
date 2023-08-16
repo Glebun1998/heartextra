@@ -1,0 +1,38 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#EG",
+        "PBD",
+        "KSG"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:nether_star"
+        },
+        "E": {
+            "item": "minecraft:experience_bottle"
+        },
+        "G": {
+            "item": "minecraft:glistering_melon_slice"
+        },
+        "P": {
+            "item": "minecraft:poppy"
+        },
+        "B": {
+            "item": "minecraft:brewing_stand"
+        },
+        "D": {
+            "item": "minecraft:dragon_breath"
+        },
+        "K": {
+            "item": "minecraft:potion"
+        },
+        "S": {
+            "item": "minecraft:blue_ice"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

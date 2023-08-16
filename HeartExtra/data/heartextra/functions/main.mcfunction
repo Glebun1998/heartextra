@@ -1,3 +1,6 @@
+recipe take @a heartextra:crafthppotion
+advancement revoke @a only heartextra:craft1
+
 scoreboard players add @a gr.health 0
 scoreboard players add @a gr.extra.health 0
 
